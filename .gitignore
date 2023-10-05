@@ -1,3 +1,5 @@
 .venv
 .env
 __pycache__
+howto_venv.txt
+main.py

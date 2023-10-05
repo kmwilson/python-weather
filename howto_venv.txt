@@ -9,3 +9,6 @@ pip freeze > requirements.txt
 Then 
 API_KEY=db35920291f2da9e6b8deaa3819e4b0f
 
+Commit
+git config --global user.email "oldefellah52@gmail.com"
+git config --global user.name "oldefellah52"
