@@ -1,0 +1,11 @@
+Create a Virtual Environment using command line
+python3 -m venv .venv
+source .venv/bin/activate
+deactivate
+pip
+To Deploy create file
+pip freeze > requirements.txt
+
+Then 
+API_KEY=db35920291f2da9e6b8deaa3819e4b0f
+
